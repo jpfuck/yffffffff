@@ -1,0 +1,741 @@
+39-height: 0.1;[rn]
+39-indent: [rn]
+39-left: 1em;[rn]
+39-block;[rn]
+39-align: middle;[rn]
+39-align: middle;[rn]
+39-align: center;[rn]
+39-size: 11px;[rn]
+39-family: Haettenschweiler;[rn]
+39-size: 11px;[rn]
+39-family: Haettenschweiler;[rn]
+39-size: 11px;[rn]
+39-family: Haettenschweiler;[rn]
+39-left: 5px;[rn]
+39-size: 5px;[rn]
+39-family: Haettenschweiler;[rn]
+39-size: 2px;[rn]
+39-size: 3px;[rn]
+39-family: Haettenschweiler;[rn]
+39-8406,http://tshop.r10s.jp/fi-mint/cabinet/thumb_other/assembly7.jpg?fitin=700:700,4320.0000,,インテリア・寝具・収納 > その他,組立設置サービス/一般家具 商品の入った大きなダンボールや梱包材の処分もお任せください！,組立設置サービス/一般家具,"<table  width=""740"">
+<tr align=""center"">
+<td>
+<img src=""http://image.rakuten.co.jp/fi-mint/cabinet/other/assembly_1_2.jpg"" border=""0"" width=""600""><br><br><br>
+<img src=""http://image.rakuten.co.jp/fi-mint/cabinet/other/assembly_2_2.jpg"" border=""0"" width=""600""><br><br><br>
+<img src=""http://image.rakuten.co.jp/fi-mint/cabinet/other/assembly_3-2.jpg"" border=""0"" width=""600""><br><br><br>
+</td>
+</tr>
+</table>
+
+<table align=""center"" width=""740"">
+<tr align=""center"" width=""600"">
+<td bgcolor=""#db0e0e"" height=""25"" width=""600"">
+<p><font color=""#ffffff""><b><font size=""2"">&nbsp;&nbsp;※当サービスについて、下記の点を必ずご確認ください</font></b></font></p>
+</td>
+</tr>
+<tr align=""center"" width=""600"">
+<td width=""600"">
+<p><span style=""font-size:14px; line-height:20px;letter-spacing:2px;color:#726d6d"">(1)こちらの組み立て金額は<font color=""#db0e0e"">玄関から搬入した場合のみ</font>となります。建物の状況によっては別途費用が発生する場合がございますので、搬入経路をご確認ください。<br>
+<br>
+&lt;別途費用発生例&gt;<br>
+
+・玄関～設置部屋までの搬入に問題があった為バルコニーからの搬入となった。<br>
+<font color=""#db0e0e"">&nbsp;&nbsp;→クレーン吊り料金発生</font><br>
+
+・3階以上の住まいでエレベーターに商品が入らず、階段からの搬入となった。<br>
+
+<font color=""#db0e0e"">&nbsp;&nbsp;→階段搬入の手間料金発生</font><br>
+
+<br>
+<br><br>
+</td>
+</tr>
+</table><table class=""product_pc"">
+<tbody>
+<tr>
+<th>商品名</th>
+<td>
+組立設置サービス<br>
+一般家具</td>
+</tr>
+<tr>
+<th>商品説明</th>
+<td>
+面倒な組み立て作業は全ておまかせください！搬入専門のスタッフがお伺いし、ご希望の場所まで搬入・設置し商品を組み立てます。また、梱包材などのゴミも全て持ち帰ります。  <br /><br />
+<font color=""#ce1a1a"">〔ご注意ください〕<br />
+※1商品あたりのサービスとなりますので、複数商品の開梱設置をご希望の場合はその個数分お買い物かごへお入れください。<br />
+※本サービスは単体のみでのお申し込みはできません。 必ず購入商品と一緒にお申し込みをお願いします。</font>
+<br />※エレベーター無しの3階以上の階層へのお届けは階層料を頂戴致します。<br />(例)3階：￥1,080、4階：￥2,160、5階：￥3,240<br /></td>
+</tr>
+</tbody>
+</table><style type=""text/css"">
+<!--
+<!--PC説明文表-->
+
+.product_pc{
+ width:400px;
+ border-collapse: separate;
+ border-spacing: 0px;
+ border-top: 1px solid #ccc;
+ border-left: 1px solid #ccc;
+ }
+
+ .product_pc th{
+ width: 100px;
+ padding: 10px;
+ text-align: left;
+ font-size: 14px;
+ vertical-align: top;
+ color: #444;
+ line-height: 140%;
+ background-color: #edeae3;
+ border-top: 1px solid #fff;
+ border-left: 1px solid #fff;
+ border-right: 1px solid #ccc;
+ border-bottom: 1px solid #ccc;
+ }
+
+ .product_pc td{
+ width: 300px;
+ padding: 10px;
+ font-size: 14px;
+ line-height: 140%;
+ background-color: #ffffff;
+ border-right: 1px solid #ccc;
+ border-bottom: 1px solid #ccc;
+ }
+
+
+
+
+
+/*商品名*/
+.item_name{
+width:375px;/*商品名のエリアの幅を指定*/
+line-height:120%;/*行間を空ける指定*/
+letter-spacing:1.5px;/*文字間を空ける指定*/
+border-bottom: dotted 1px #999;/*商品名の下にグレーの点線*/
+padding: 4px 0px 4px 8px !important;/*余白の調整*/
+font-size:20px;
+border-left: solid 8px #b5b6b4 !important;/*商品名の左側に線を引く*/
+margin:0;
+display: block;/*これを入れると＜ｂｒ＞を入れなくてもキャッチコピーが改行される*/
+}
+
+/*商品キャッチコピー*/
+span.catch_copy{
+width:375px;/*商品キャッチコピーのエリアの幅を指定*/
+font-size:14px;
+color:#b7b3b3;
+display: block;
+margin:0;
+padding: 4px 0px 4px 0px;
+}
+
+/* 価格に枠線がつく */
+table#rakutenLimitedId_cart {
+    background-color: #f8fded;
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin: 16px 0;
+}
+
+span.price1 {
+    color: #333 !important;
+    font-weight: bold;
+    font-size: 80% !important;
+    line-height: 30px;
+    display: inline-block;
+    margin-right: 16px;
+}
+
+
+
+
+
+/* 新商品説明文　カート下テーブル */
+/* ----------------------------------------------------- */
+
+.cart-table{
+	text-align:left;
+	color:#000000;
+	font-size:13px;
+	line-height:18px;
+	margin-bottom:20px
+	padding:0;
+	border:1px solid #ddd7d4;
+	margin-bottom:20px;
+	}
+.cart-table th{
+	background:#eeeeee;
+	padding:10px;
+	width:70px;
+	border-bottom:1px solid #ddd7d4;
+	border-right:1px solid #ddd7d4;
+	color:#000000;
+	 }
+.cart-table th.close{
+	border-bottom:none;
+	}
+.cart-table td{
+	background:url(../img/cart-td-back.gif) center left no-repeat;
+	padding:10px 5px;
+	border-bottom:1px solid #ddd7d4;
+	color:#000000;
+	}
+.cart-table td.close{
+	border-bottom:none;
+	_border-top:1px solid #ddd7d4;
+	}
+.cart-table p{
+	background:white;
+	padding:0 0 0 10px;
+	margin:1px;
+	line-height:20px;
+	}
+
+
+/* 商品販売説明文　表20161222反映 */
+/* ----------------------------------------------------- */
+
+.sell-table{
+	text-align:left;
+	color:#000000;
+	font-size:13px;
+	line-height:18px;
+	margin-bottom:20px
+	padding:0;
+	border:1px solid #ddd7d4;
+	margin-bottom:20px;
+	}
+.sell-table th{
+	background:#eeeeee;
+	padding:10px;
+	width:70px;
+	border-bottom:1px solid #ddd7d4;
+	border-right:1px solid #ddd7d4;
+	color:#000000;
+	 }
+.sell-table th.close{
+	border-bottom:none;
+	}
+.sell-table td{
+	background:url(../img/cart-td-back.gif) center left no-repeat;
+	padding:10px 5px;
+	border-bottom:1px solid #ddd7d4;
+	color:#000000;
+	}
+.sell-table td.close{
+	border-bottom:none;
+	_border-top:1px solid #ddd7d4;
+	}
+.sell-table p{
+	background:white;
+	padding:0 0 0 10px;
+	margin:1px;
+	line-height:20px;
+	}
+
+
+
+
+/* 商品名を短く */
+
+a.category_itemnamelink {
+	content: ""..."";
+}
+ 
+a.category_itemnamelink {
+        float: left;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	white-space: nowrap;
+	width: 200px;
+	color:#6b6b6e;
+        font-style: normal;
+        text-decoration: underline;
+}
+
+
+<!-- 売価 -->
+span.category_itemprice {
+  color: #bf0000;
+ }
+
+<!-- 税込表記 -->
+span.category_itemtaxpostage{
+  font-size: 20px;
+ }
+
+<!-- 送料無料表記 -->
+span.tax_postage shippingCost_free{
+ }
+
+
+<!--商品カテゴリの価格やフォントを変える-->
+
+html,body {
+font-family: Century Gothic, Arial; /* フォント指定 */
+}
+
+span.category_itemtaxpostage {font-size:10px;} /* 送料・税込の非表示 */
+span.category_itemprice {color:#bf0000;font-size:16px;font-weight:bold; display:block;} /* 価格 */
+table{z-index:0;} 
+span.category_itemprice:before{content:""\[rn]"
+39-bottom:15px;[rn]
+39-bottom:15px;[rn]
+39-size:12px;color:#d32323;}[rn]
+39-wrap:break[rn]
+39-width:0px 0px 0px 3px;[rn]
+39-style:solid;[rn]
+39-color:#bababa;[rn]
+"39-image:url(""""http://image.rakuten.co.jp/fi[rn]"
+39-repeat:no[rn]
+39-position:right center;[rn]
+39-left : 10px;[rn]
+39-right : auto;[rn]
+39-decoration:none;[rn]
+39-decoration:none;[rn]
+39-decoration: underline;[rn]
+39-align: middle;[rn]
+39-size: 17px;[rn]
+39-family: Haettenschweiler;[rn]
+39-weight: bold;[rn]
+39-height: 0.1;[rn]
+39-indent: [rn]
+39-left: 1em;[rn]
+39-block;[rn]
+39-align: middle;[rn]
+39-align: middle;[rn]
+39-align: center;[rn]
+39-size: 11px;[rn]
+39-family: Haettenschweiler;[rn]
+39-size: 11px;[rn]
+39-family: Haettenschweiler;[rn]
+39-size: 11px;[rn]
+39-family: Haettenschweiler;[rn]
+39-left: 5px;[rn]
+39-size: 5px;[rn]
+39-family: Haettenschweiler;[rn]
+39-size: 2px;[rn]
+39-size: 3px;[rn]
+39-family: Haettenschweiler;[rn]
+39-8407,http://tshop.r10s.jp/fi-mint/cabinet/thumb_other/assembly4.jpg?fitin=700:700,2592.0000,,インテリア・寝具・収納 > その他,開梱設置サービスA 商品の入った大きなダンボールや梱包材の処分もお任せください！,開梱設置サービスA,"<table  width=""740"">
+<tr align=""center"">
+<td>
+<img src=""http://image.rakuten.co.jp/fi-mint/cabinet/other/assembly_1_2.jpg"" border=""0"" width=""600""><br><br><br>
+<img src=""http://image.rakuten.co.jp/fi-mint/cabinet/other/assembly_2_2.jpg"" border=""0"" width=""600""><br><br><br>
+<img src=""http://image.rakuten.co.jp/fi-mint/cabinet/other/assembly_3-2.jpg"" border=""0"" width=""600""><br><br><br>
+</td>
+</tr>
+</table>
+
+<table align=""center"" width=""740"">
+<tr align=""center"" width=""600"">
+<td bgcolor=""#db0e0e"" height=""25"" width=""600"">
+<p><font color=""#ffffff""><b><font size=""2"">&nbsp;&nbsp;※当サービスについて、下記の点を必ずご確認ください</font></b></font></p>
+</td>
+</tr>
+<tr align=""center"" width=""600"">
+<td width=""600"">
+<p><span style=""font-size:14px; line-height:20px;letter-spacing:2px;color:#726d6d"">(1)こちらの組み立て金額は<font color=""#db0e0e"">玄関から搬入した場合のみ</font>となります。建物の状況によっては別途費用が発生する場合がございますので、搬入経路をご確認ください。<br>
+<br>
+&lt;別途費用発生例&gt;<br>
+
+・玄関～設置部屋までの搬入に問題があった為バルコニーからの搬入となった。<br>
+<font color=""#db0e0e"">&nbsp;&nbsp;→クレーン吊り料金発生</font><br>
+
+・3階以上の住まいでエレベーターに商品が入らず、階段からの搬入となった。<br>
+
+<font color=""#db0e0e"">&nbsp;&nbsp;→階段搬入の手間料金発生</font><br>
+
+<br>
+<br><br>
+</td>
+</tr>
+</table><table class=""product_pc"">
+<tbody>
+<tr>
+<th>商品名</th>
+<td>
+開梱設置サービスA</td>
+</tr>
+<tr>
+<th>商品説明</th>
+<td>
+重～い商品を玄関からお部屋まで自分で運ぶのは大変。こちらのサービスなら搬入専門のスタッフがお伺いし、ご希望の場所まで搬入・設置致します。また、梱包材などのゴミも全て持ち帰ります。 <br /><br />
+<font color=""#ce1a1a"">〔ご注意ください〕<br />
+※1商品あたりのサービスとなりますので、複数商品の開梱設置をご希望の場合はその個数分お買い物かごへお入れください。<br />
+※本サービスは単体のみでのお申し込みはできません。 必ず購入商品と一緒にお申し込みをお願いします。</font>
+<br />※エレベーター無しの3階以上の階層へのお届けは階層料を頂戴致します。<br />(例)3階：￥1,080、4階：￥2,160、5階：￥3,240<br /></td>
+</tr>
+</tbody>
+</table><style type=""text/css"">
+<!--
+<!--PC説明文表-->
+
+.product_pc{
+ width:400px;
+ border-collapse: separate;
+ border-spacing: 0px;
+ border-top: 1px solid #ccc;
+ border-left: 1px solid #ccc;
+ }
+
+ .product_pc th{
+ width: 100px;
+ padding: 10px;
+ text-align: left;
+ font-size: 14px;
+ vertical-align: top;
+ color: #444;
+ line-height: 140%;
+ background-color: #edeae3;
+ border-top: 1px solid #fff;
+ border-left: 1px solid #fff;
+ border-right: 1px solid #ccc;
+ border-bottom: 1px solid #ccc;
+ }
+
+ .product_pc td{
+ width: 300px;
+ padding: 10px;
+ font-size: 14px;
+ line-height: 140%;
+ background-color: #ffffff;
+ border-right: 1px solid #ccc;
+ border-bottom: 1px solid #ccc;
+ }
+
+
+
+
+
+/*商品名*/
+.item_name{
+width:375px;/*商品名のエリアの幅を指定*/
+line-height:120%;/*行間を空ける指定*/
+letter-spacing:1.5px;/*文字間を空ける指定*/
+border-bottom: dotted 1px #999;/*商品名の下にグレーの点線*/
+padding: 4px 0px 4px 8px !important;/*余白の調整*/
+font-size:20px;
+border-left: solid 8px #b5b6b4 !important;/*商品名の左側に線を引く*/
+margin:0;
+display: block;/*これを入れると＜ｂｒ＞を入れなくてもキャッチコピーが改行される*/
+}
+
+/*商品キャッチコピー*/
+span.catch_copy{
+width:375px;/*商品キャッチコピーのエリアの幅を指定*/
+font-size:14px;
+color:#b7b3b3;
+display: block;
+margin:0;
+padding: 4px 0px 4px 0px;
+}
+
+/* 価格に枠線がつく */
+table#rakutenLimitedId_cart {
+    background-color: #f8fded;
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin: 16px 0;
+}
+
+span.price1 {
+    color: #333 !important;
+    font-weight: bold;
+    font-size: 80% !important;
+    line-height: 30px;
+    display: inline-block;
+    margin-right: 16px;
+}
+
+
+
+
+
+/* 新商品説明文　カート下テーブル */
+/* ----------------------------------------------------- */
+
+.cart-table{
+	text-align:left;
+	color:#000000;
+	font-size:13px;
+	line-height:18px;
+	margin-bottom:20px
+	padding:0;
+	border:1px solid #ddd7d4;
+	margin-bottom:20px;
+	}
+.cart-table th{
+	background:#eeeeee;
+	padding:10px;
+	width:70px;
+	border-bottom:1px solid #ddd7d4;
+	border-right:1px solid #ddd7d4;
+	color:#000000;
+	 }
+.cart-table th.close{
+	border-bottom:none;
+	}
+.cart-table td{
+	background:url(../img/cart-td-back.gif) center left no-repeat;
+	padding:10px 5px;
+	border-bottom:1px solid #ddd7d4;
+	color:#000000;
+	}
+.cart-table td.close{
+	border-bottom:none;
+	_border-top:1px solid #ddd7d4;
+	}
+.cart-table p{
+	background:white;
+	padding:0 0 0 10px;
+	margin:1px;
+	line-height:20px;
+	}
+
+
+/* 商品販売説明文　表20161222反映 */
+/* ----------------------------------------------------- */
+
+.sell-table{
+	text-align:left;
+	color:#000000;
+	font-size:13px;
+	line-height:18px;
+	margin-bottom:20px
+	padding:0;
+	border:1px solid #ddd7d4;
+	margin-bottom:20px;
+	}
+.sell-table th{
+	background:#eeeeee;
+	padding:10px;
+	width:70px;
+	border-bottom:1px solid #ddd7d4;
+	border-right:1px solid #ddd7d4;
+	color:#000000;
+	 }
+.sell-table th.close{
+	border-bottom:none;
+	}
+.sell-table td{
+	background:url(../img/cart-td-back.gif) center left no-repeat;
+	padding:10px 5px;
+	border-bottom:1px solid #ddd7d4;
+	color:#000000;
+	}
+.sell-table td.close{
+	border-bottom:none;
+	_border-top:1px solid #ddd7d4;
+	}
+.sell-table p{
+	background:white;
+	padding:0 0 0 10px;
+	margin:1px;
+	line-height:20px;
+	}
+
+
+
+
+/* 商品名を短く */
+
+a.category_itemnamelink {
+	content: ""..."";
+}
+ 
+a.category_itemnamelink {
+        float: left;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	white-space: nowrap;
+	width: 200px;
+	color:#6b6b6e;
+        font-style: normal;
+        text-decoration: underline;
+}
+
+
+<!-- 売価 -->
+span.category_itemprice {
+  color: #bf0000;
+ }
+
+<!-- 税込表記 -->
+span.category_itemtaxpostage{
+  font-size: 20px;
+ }
+
+<!-- 送料無料表記 -->
+span.tax_postage shippingCost_free{
+ }
+
+
+<!--商品カテゴリの価格やフォントを変える-->
+
+html,body {
+font-family: Century Gothic, Arial; /* フォント指定 */
+}
+
+span.category_itemtaxpostage {font-size:10px;} /* 送料・税込の非表示 */
+span.category_itemprice {color:#bf0000;font-size:16px;font-weight:bold; display:block;} /* 価格 */
+table{z-index:0;} 
+span.category_itemprice:before{content:""\[rn]"
+39-bottom:15px;[rn]
+39-bottom:15px;[rn]
+39-size:12px;color:#d32323;}[rn]
+39-wrap:break[rn]
+39-width:0px 0px 0px 3px;[rn]
+39-style:solid;[rn]
+39-color:#bababa;[rn]
+"39-image:url(""""http://image.rakuten.co.jp/fi[rn]"
+39-repeat:no[rn]
+39-position:right center;[rn]
+39-left : 10px;[rn]
+39-right : auto;[rn]
+39-decoration:none;[rn]
+39-decoration:none;[rn]
+39-decoration: underline;[rn]
+39-align: middle;[rn]
+39-size: 17px;[rn]
+39-family: Haettenschweiler;[rn]
+39-weight: bold;[rn]
+39-height: 0.1;[rn]
+39-indent: [rn]
+39-left: 1em;[rn]
+39-block;[rn]
+39-align: middle;[rn]
+39-align: middle;[rn]
+39-align: center;[rn]
+39-size: 11px;[rn]
+39-family: Haettenschweiler;[rn]
+39-size: 11px;[rn]
+39-family: Haettenschweiler;[rn]
+39-size: 11px;[rn]
+39-family: Haettenschweiler;[rn]
+39-left: 5px;[rn]
+39-size: 5px;[rn]
+39-family: Haettenschweiler;[rn]
+39-size: 2px;[rn]
+39-size: 3px;[rn]
+39-family: Haettenschweiler;[rn]
+39-8408,http://tshop.r10s.jp/mega-star/cabinet/ts/23/040601229_title.jpg?fitin=700:700,25833.6000,,インテリア・寝具・収納 > その他,デザイナーズダイニングセット【JOSE】ジョゼ/テーブル(W150),J 机 JOSE 食卓 木製 家族 4人用 ハンス ジョゼ つくえ,"<div class=""sale_exp""><A name=syouhin_top></A><a href=""http://www.rakuten.ne.jp/gold/mega-star/iframe/sp_item_attention.html""><img src=""http://www.rakuten.ne.jp/gold/mega-star/images/rakuten_shop_guide.gif"" width=""100%"" /></a><BR><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/23/040601227_1.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/23/040601227_2.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/23/040601227_3.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/23/040601227_4.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/23/040601227_5.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/23/040601227_6.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/23/040601227_7.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/23/040601227_8.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/23/040601227_9.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/23/040601227_10.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/23/040601227_11.jpg""><br/><BR><img src=""http://image.rakuten.co.jp/shooting-star/cabinet/time_2.jpg"" alt="""" border=""0""><BR><BR><img src=""http://image.rakuten.co.jp/shooting-star/cabinet/ts_attention.jpg"" border=""0""><BR><BR><table id=""ts_iteminfo""><tr><td id=""ts_iteminfo_sign""></td></tr><tr><td  id=""ts_iteminfo_top""></td></tr><tr><td id=""ts_iteminfo_middle"">Designers Dining Set<BR>デザイナーズダイニングセット【JOSE】ジョゼ<BR>JOSE<BR>Designers Dining Set<BR>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿__<BR>The Chair<BR>※本製品はリプロダクト製品になります。<BR>「ザ・チェア」と呼ばれるようになったきっかけは、<BR>1960年のアメリカ大統領選での討論会。<BR>ジョン・F・ケネディがこの椅子を指名したことで世界的に注目され、<BR>「特別な椅子」という意味を込め「ザ・チェア」と呼ばれるようになった由来を持つ。<BR>____________________________________________<BR>巨匠が生み出した逸品チェア<BR>「椅子の巨匠」と称されるデザイナーハンス・J・ウェグナーが1950年にデザイン。<BR>「ザ・チェア」は、ウェグナー作品の中でも、プロポーションの美しさや掛け心地の良さなど、<BR>あらゆる点において最も完成度の高いチェアです。<BR><BR>包み込まれる造形美<BR>家具職人でもあったウェグナーは<BR>あくまで日常生活の道具としてのデザインにこだわりました。<BR>流れるようなデザインの背板は、身体を包み込むような一体感を。<BR>裾広がりの角度を保つ４本脚は、軽快な印象でありながら抜群の安定感を生んでいます。<BR>後姿のフォルム、接合部分など細部にまで作り手としてのこだわりが伝わるチェアです。<BR>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<BR>TABLE<BR>異素材が融合したデザイン<BR><BR>天然木アッシュ材を施したテーブルは高級感を感じます。<BR>仕上がりも美しく、滑らかで心地の良い肌触りです。<BR>使い込むほどに、深まる味わいも魅力です。<BR>味わい深い「黒」が美しいスチール素材。<BR>どの角度から見ても、究極のシャープさを表現しております。<BR>床が傷つきにくいように、脚裏にはフェルトを施しています。<BR><BR>                    </td></tr><tr><td id=""ts_iteminfo_bottom""></td></tr></table><BR></div><img src=""http://www.rakuten.ne.jp/gold/mega-star/images/ts_plus.png"" target=""_blank""><table class=""ts_group""><tr><th>デザイナーズダイニングセット 【JOSE】 ジョゼシリーズ</th></tr><tr><td><P>現在ご覧頂いている商品タイプは<font>テーブル(W150)</font>です。ご注文のお間違いにご注意下さい。</P><P>その他タイプは下記よりご購入頂けます。</P>       <ul><li>5点セット<li>チェア(2脚組)<li>テーブル(W150)</ul></td></tr> </table> <table id=""ts_attention""><tr><td id=""ts_attention_sign""></td></tr><tr><td  id=""ts_attention_top""></td></tr><tr><td id=""ts_attention_middle"">デザイナーズダイニングセット<BR>【JOSE】ジョゼ<br /><br />■チェア（ザ・チェア)　※2脚組　<br /><BR>【サイズ】横幅64&times;奥行55.5&times; 高さ78.5&times;座面高46cm <br /><BR>【材質】天然木アッシュ材<br /><BR>【座面】PUレザー、コットン<br />　　　　クッション材‐ウレタンフォーム<br /><BR>【製品重量】 7kg<br /><BR>【梱包数】1<br /><BR>【梱包サイズ】<br />&nbsp; 　&nbsp;&nbsp;&nbsp; 横幅67&times;奥行62&times;高さ86cm <br /><BR>【生産国】中国またはベトナム&nbsp;&nbsp;<br /><br />■ダイニングテーブル スチール脚<br /><BR>【サイズ】横幅150&times;奥行80&times;高さ70cm<br /><BR>【材質】天板:天然木アッシュ材 突板<br />&nbsp;　　　 仕上げ‐ウレタン塗装<br />&nbsp;　&nbsp;&nbsp;&nbsp;&nbsp; 脚部:スチール<br /><BR>【製品重量】25kg<br /><BR>【梱包サイズ】2梱包<br />&nbsp;　&nbsp;&nbsp;&nbsp;&nbsp; 天板-横幅154x奥行84x高さ5cm<br />　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 脚部-横幅72x奥行18x高さ14cm <br /><BR>【生産国】中国またはベトナム<br />&nbsp; ※組立品<br /><br />■5点セット<br /><BR>【セット内容】テーブル、チェア&times;4<br /><br />※サイズ・重量は概算です。<BR><br />※本製品は天然木のため、一つ一つ色や木目が若干異なります。<BR>予めご了承下さい。<BR><br />※チェアはリプロダクト（ジェネリック）製品です。<BR>意匠権などを失った製品のオリジナルを<br />　忠実に再現すると共に、・品質を訴求し生産された製品です。<BR><br />※仕様は予告なく変更になる場合がございます。<BR>予めご了承下さい。<BR>　　<br />※実際の商品の色にできるだけ近づけるよう撮影を行っておりますが、<br />&nbsp; 商品色はご使用のモニターによって実際の明るさや色と多少異なって見える場合がございます。<BR><br /><br /></td></tr><tr><td id=""ts_attention_bottom""></td></tr></table><div class=""scroll_frame""></div><div></div>J 机 JOSE 食卓 木製 家族 4人用 ハンス ジョゼ つくえ 長方形 (幅150) テーブル 4人掛け用 ファミリー 新生活応援 ウェグナー 食卓テーブル 食事テーブル 父の日ギフト デザイナーズ 木製テーブル リプロダクト テーブル(W150) カフェテーブル デザイナーズ家具 ハンスリプロダクト ダイニングテーブル テーブル:単品(W150) 巨匠が生み出した逸品 ウッドダイニングテーブル デザイナーズダイニングセット ダイニング　ダイニングセット　チェア　テーブルダイニング　ダイニングセット　チェア　テーブル デザイナーズダイニングセット ウッドダイニングテーブル 巨匠が生み出した逸品 テーブル:単品(W150) ダイニングテーブル 040601229<link rel=""stylesheet"" href=""http://www.rakuten.ne.jp/gold/mega-star/css/daibikifuka.css"">
+
+<table width=""750"">
+  <tbody>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<div id=""HeaderKeyword"">
+<span>注目のキーワード</span>
+竹シーツ
+
+エコドライブ
+
+扇子
+</div>
+
+
+<!-- 750px ポイントバナー -->
+<!--
+
+-->
+
+
+
+
+
+<br><br><br><br>
+
+
+<br><br><br><br>
+
+
+
+<br><br><br><br>",デザイナーズダイニングセット【JOSE】ジョゼ/テーブル(W150)：MEGA STAR,ベッド通販テーブルテレビ台腕時計アンティーク家具ソファラグマットレスシーツカバー机ランドセルノコギリ腰袋食器棚照明ラック本棚健康食品デザイナーズダイニングセット【JOSE】ジョゼ/テーブル(W150),J 机 JOSE 食卓 木製 家族 4人用 ハンス ジョゼ つくえ。デザイナーズダイニングセット【JOSE】ジョゼ/テーブル(W150)[rn]
+39-8409,http://tshop.r10s.jp/mega-star/cabinet/ts/13/040600276_title.jpg?fitin=700:700,28944.0000,,インテリア・寝具・収納 > その他,モダンデザインフラットヒーターこたつテーブル【Valeri】ヴァレーリ/長方形(105×75),木製 座卓 北欧 こたつ Valeri 長方形 モダン 家具調 コタツ,"<div class=""sale_exp""><A name=syouhin_top></A><a href=""http://www.rakuten.ne.jp/gold/mega-star/iframe/sp_item_attention.html""><img src=""http://www.rakuten.ne.jp/gold/mega-star/images/rakuten_shop_guide.gif"" width=""100%"" /></a><BR><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_1.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_2.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_3.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_4.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_5.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_6.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_7.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_8.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_9.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_10.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_11.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_12.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_13.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_14.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_15.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_16.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_17.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_18.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_19.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_20.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/13/040600275_21.jpg""><br/><BR><img src=""http://image.rakuten.co.jp/shooting-star/cabinet/time_16.jpg"" alt="""" border=""0""><BR><BR><img src=""http://image.rakuten.co.jp/shooting-star/cabinet/ts_attention.jpg"" border=""0""><BR><BR><table id=""ts_iteminfo""><tr><td id=""ts_iteminfo_sign""></td></tr><tr><td  id=""ts_iteminfo_top""></td></tr><tr><td id=""ts_iteminfo_middle"">モダンデザインフラットヒーターこたつテーブル<BR><BR>【Valeri】ヴァレーリ<BR><BR><BR>01/Design<BR>追及された、モダンの造形。<BR>02/Material<BR>妥協なき、その質感。<BR>03/Function<BR>先端をゆく、機能性。<BR><BR>01/Design<BR>モダン、その造形。<BR>従来のこたつにはない、そのモダンでスタイリッシュなシルエットに目を奪われる。<BR>野暮ったくはならないよう、絶妙なバランスに計算されたシャープなフォルム。<BR><BR>Check NEW! 超薄型フラットカーボンヒーター<BR>従来のこたつのような出っ張りがない、厚さわずか約2cmの超薄型カーボンフラットヒーターを使用。<BR><BR>point.1 脚もと、広々ゆったり。<BR>普通のヒーターの場合<BR>ヒーターの出っ張りが邪魔になり、思うように寛げません・・・。<BR><BR>フラットカーボンヒーター場合<BR>フラットカーボンヒーターなら、出っ張りがないので脚もとは広々ゆったりとしたスペースに。楽な姿勢で寛ぐことができます。<BR>point.2 今年の冬は、カーボンで暖まる。<BR>「カーボン」とは、炭素のこと。<BR>炭素系の発熱体は遠赤外線の放射光率が高く、体の芯から暖まることができます。<BR>速暖性に優れ冷めにくいため、省エネ効果も期待できる優秀な素材です。<BR>温まり具合をサーモグラフィーで比較しました。<BR>カーボン素材を使用したヒーターの方が、スイッチを入れてからの立ち上がりが早く、その上全体がムラなく暖まることが分かります。一般的なこたつの、ヒーターの周辺だけが熱いという不快感が解消され、また立ち上がり時間の短縮により家庭に嬉しい省エネ効果もあります。<BR><BR>02/Material<BR>唯一無二の質感。<BR>【Valeri】は、天然木の突板を使用。突板とは、天然木を切削しスライス状にしたもの。それらを基材の上に張ることで、無垢と変わらない、ひとつひとつ異なった豊かな表情が生まれます。<BR>また突板の家具は、経年変化による反りや狂いが少ないという利点もあります。安価な品には無い、本物ならではの味わい深い木目の質感をぜひ体感してください。<BR><BR>Walnut brown<BR>世界三大銘木の一つであり、古くからヨーロッパの家具市場で人気を博しているウォールナット材。深みのある落ち着いた色合いは、モダンなインテリアに映えます。<BR>Natural ash<BR>北欧家具などではアンティーク家具の定番品として使われているアッシュ材。あたたかみのある優しい色合いは、お部屋を明るい雰囲気にしてくれます。<BR><BR>Check お手入れ簡単で傷もつきにくい。<BR><BR>熱と汚れに強いウレタン塗装仕上げ。こぼれた水も木にしみこまず、サッと拭きとれます。表面にはUV加工も施していますので、傷もつきにくく長年愛用していただけます。<BR><BR><BR>03/Function<BR>先端をゆく、機能性。<BR>便利な継脚仕様<BR>高さを二段階で変えられる継脚(5cm)付き。床に直接座って使う時はそのまま、座椅子やフロアソファなどで使う際は継脚を付けて、丁度いい高さで使えます。<BR>天板固定ネジ<BR>テーブルとして使う場合には、天板下のネジで天板を固定できます。外す際は、ネジを手で回すだけで簡単に取り外せます。<BR><BR>温度調整機能付き電子コントローラー<BR>手元のコントローラーでラクラク温度調整。自分の好きな温度で、ゆったり快適に過ごせます。<BR><BR>安全装置<BR>電源プラグ内に電流ヒューズが内臓されているので、万が一コードが断線しショートしても、電流ヒューズが溶断しスパークによる発火の危険を低減します。<BR>こたつを購入する際に気になるのは、その安全性。【Valeri】は、厳密な品質管理と検査を経た製品です。品質に自信があるからこそできる、安心のメーカー1年保証付き。（※ヒーター部のみ）<BR>                    </td></tr><tr><td id=""ts_iteminfo_bottom""></td></tr></table><BR></div><img src=""http://www.rakuten.ne.jp/gold/mega-star/images/ts_plus.png"" target=""_blank""><table class=""ts_group""><tr><th>モダンデザインフラットヒーターこたつテーブル 【Valeri】 ヴァレーリシリーズ</th></tr><tr><td><P>現在ご覧頂いている商品タイプは<font>長方形(105×75)</font>です。ご注文のお間違いにご注意下さい。</P><P>その他タイプは下記よりご購入頂けます。</P>       <ul><li>正方形(80×80)<li>長方形(105×75)<li>長方形(120×80)</ul></td></tr> </table> <table id=""ts_attention""><tr><td id=""ts_attention_sign""></td></tr><tr><td  id=""ts_attention_top""></td></tr><tr><td id=""ts_attention_middle"">モダンデザインフラットヒーターこたつテーブル<BR>【Valeri】ヴァレーリ<br /><br />・正方形（80&times;80）<br /><BR>【サイズ】幅80&times;奥行80&times;高さ36.5/41.5cm(継脚使用時)<br /><BR>【商品重量・梱包重量】約17kg／約19kg<br /><BR>【梱包サイズ】約84&times;87&times;12cm<br /><BR>【ヒーター】300Wカーボンフラットヒーター 電子手元コントローラー<br /><br />・長方形（105&times;75）<br /><BR>【サイズ】幅105&times;奥行75&times;高さ36.5/41.5cm(継脚使用時)<br /><BR>【商品重量・梱包重量】約19kg／約21kg<br /><BR>【梱包サイズ】約109&times;82&times;12cm<br /><BR>【ヒーター】300Wカーボンフラットヒーター　電子手元コントローラー<br /><br />・長方形（120&times;80）<br /><BR>【サイズ】幅120&times;奥行80&times;高さ36.5/41.5cm(継脚使用時)<br /><BR>【商品重量・梱包重量】約24kg／約26kg<br /><BR>【梱包サイズ】約124&times;86&times;12cm<br /><BR>【ヒーター】300Wカーボンフラットヒーター　電子手元コントローラー<br /><br />・全サイズ共通<br /><BR>【材質】天板-BR:天然木ウォールナット突板<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NA:天然木アッシュ突板<br />　　　&nbsp;　脚-ラバーウッド<br /><BR>【塗装】ウレタン樹脂塗装（UV加工）<br /><BR>【天板耐荷重】約20kg<br /><BR>【電源コード長さ】約3m<br /><BR>【生産国】マレーシア<br /><BR>【備考】継脚（5cm）付き<br />　　　　ヒーター部メーカー1年保証付き<br />　　　　組み立て品<br /><br /><br />※実際の商品の色にできるだけ近づけるよう撮影を行っておりますが、商品色は、ご使用のモニターによって実際の明るさや色と多少異なって見える場合がございます。<BR>あらかじめご了承ください。<BR><br /><br /></td></tr><tr><td id=""ts_attention_bottom""></td></tr></table><div class=""scroll_frame""></div><div></div>木製 座卓 北欧 こたつ Valeri 長方形 モダン 家具調 コタツ 天然木 105×75 テーブル おしゃれ ヴァレーリ ナチュラル 父の日ギフト こたつテーブル フラットヒーター リビングテーブル モダンデザインフラットヒーターこたつテーブルモダンデザインフラットヒーターこたつテーブル リビングテーブル フラットヒーター こたつテーブル 父の日ギフト ナチュラル ヴァレーリ おしゃれ テーブル 105×75 天然木 コタツ<link rel=""stylesheet"" href=""http://www.rakuten.ne.jp/gold/mega-star/css/daibikifuka.css"">
+
+<table width=""750"">
+  <tbody>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<div id=""HeaderKeyword"">
+<span>注目のキーワード</span>
+竹シーツ
+
+エコドライブ
+
+扇子
+</div>
+
+
+<!-- 750px ポイントバナー -->
+<!--
+
+-->
+
+
+
+
+
+<br><br><br><br>
+
+
+<br><br><br><br>
+
+
+
+<br><br><br><br>",モダンデザインフラットヒーターこたつテーブル【Valeri】ヴァレーリ/長方形(105&times;75)：MEGA STAR,ベッド通販テーブルテレビ台腕時計アンティーク家具ソファラグマットレスシーツカバー机ランドセルノコギリ腰袋食器棚照明ラック本棚健康食品モダンデザインフラットヒーターこたつテーブル【Valeri】ヴァレーリ/長方形(105&times;75),木製 座卓 北欧 こたつ Valeri 長方形 モダン 家具調 コタツ。モダンデザインフラットヒーターこたつテーブル【Valeri】ヴァレーリ/長方形(105&times;75)[rn]
+39-8410,http://tshop.r10s.jp/mega-star/cabinet/ts/5/040103907_title.jpg?fitin=700:700,19222.4000,,インテリア・寝具・収納 > その他,シンプルモダンシリーズ【WHITE】ホワイト　ソファ　3人掛け,シンプルモダンシリーズ【WHITE】ホワイト　ソファ　3人掛け,"<div class=""sale_exp""><A name=syouhin_top></A><a href=""http://www.rakuten.ne.jp/gold/mega-star/iframe/sp_item_attention.html""><img src=""http://www.rakuten.ne.jp/gold/mega-star/images/rakuten_shop_guide.gif"" width=""100%"" /></a><BR><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/5/040103906_1.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/5/040103906_2.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/5/040103906_3.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/5/040103906_4.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/5/040103906_5.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/5/040103906_6.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/5/040103906_7.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/5/040103906_8.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/5/040103906_9.jpg""><br/><img src=""http://image.rakuten.co.jp/mega-star/cabinet/ts/5/040103906_10.jpg""><br/><BR><img src=""http://image.rakuten.co.jp/shooting-star/cabinet/time_12.jpg"" alt="""" border=""0""><BR><BR><img src=""http://image.rakuten.co.jp/shooting-star/cabinet/ts_attention.jpg"" border=""0""><BR><BR></div><img src=""http://www.rakuten.ne.jp/gold/mega-star/images/ts_plus.png"" target=""_blank""><table class=""ts_group""><tr><th>シンプルモダンシリーズ 【WHITE】 ホワイトシリーズ</th></tr><tr><td><P>現在ご覧頂いている商品タイプは<font>ソファ 3人掛け</font>です。ご注文のお間違いにご注意下さい。</P><P>その他タイプは下記よりご購入頂けます。</P>       <ul><li>ソファ 2人掛け<li>ソファ 3人掛け<li>ソファセット 2P+3P</ul></td></tr> </table> <table id=""ts_attention""><tr><td id=""ts_attention_sign""></td></tr><tr><td  id=""ts_attention_top""></td></tr><tr><td id=""ts_attention_middle"">&nbsp;&nbsp;<br /><br /><BR>【商品名】シンプルモダンシリーズ　<BR>【BLACK】<BR>【WHITE】ブラック&nbsp;ホワイト<br /><br />&nbsp;<br /><br />&nbsp;<br /><br />2人掛け<br /><br /><BR>【サイズ】幅約128cm&times;奥行78cm&times;高さ71ｃｍ<br /><br /><BR>【中材】ウレタン、鋼鉄S字バネ<br /><br /><BR>【生地】合成皮革<br /><br /><BR>【商品重量】24kg<br /><br /><BR>【梱包サイズ】130cm&times;80cm&times;65cm&nbsp;<BR>【梱包重量】約26.5kg<br /><br /><BR>【生産国】中国<br /><br />&nbsp;<br /><br />&nbsp;<br /><br />3.人掛け<br /><br /><BR>【サイズ】幅約171cm&times;奥行78cm&times;高さ71cm<br /><br /><BR>【中材】ウレタン、鋼鉄S字バネ<br /><br /><BR>【生地】合成皮革&nbsp;<br /><br />&nbsp;<br /><br /><BR>【商品重量】30kg<br /><br />&nbsp;<br /><br /><BR>【梱包サイズ】175cm&times;80cm&times;65cm&nbsp;&nbsp;<BR>【梱包重量】約34.5kg<br /><br /><BR>【生産国】中国<br /><br />&nbsp;<br /><br />&nbsp;<br /><br />脚の長さは10cmです。<BR><br /><br />脚はお客様お取り付けをお願いしております。<BR><br /><br />&nbsp;<br /><br />&nbsp;<br /><br />&nbsp;<br /><br /></td></tr><tr><td id=""ts_attention_bottom""></td></tr></table><div class=""scroll_frame""></div><div></div><link rel=""stylesheet"" href=""http://www.rakuten.ne.jp/gold/mega-star/css/daibikifuka.css"">
+
+<table width=""750"">
+  <tbody>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<div id=""HeaderKeyword"">
+<span>注目のキーワード</span>
+竹シーツ
+
+エコドライブ
+
+扇子
+</div>
+
+
+<!-- 750px ポイントバナー -->
+<!--
+
+-->
+
+
+
+
+
+<br><br><br><br>
+
+
+<br><br><br><br>
+
+
+
+<br><br><br><br>",シンプルモダンシリーズ【WHITE】ホワイト　ソファ　3人掛け：MEGA STAR,ベッド通販テーブルテレビ台腕時計アンティーク家具ソファラグマットレスシーツカバー机ランドセルノコギリ腰袋食器棚照明ラック本棚健康食品シンプルモダンシリーズ【WHITE】ホワイト　ソファ　3人掛け,シンプルモダンシリーズ【WHITE】ホワイト　ソファ　3人掛け。シンプルモダンシリーズ【WHITE】ホワイト　ソファ　3人掛け[rn]
